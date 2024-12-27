@@ -1,0 +1,17 @@
+# Ignore specific directories and files
+Best_modelfile/
+final_dataset.json
+Llama-3-1-70B-Finetuned_V2/
+llama70b_rct_pilot_dataset/
+llama.cpp/
+model_traning_outputs/
+outputs/
+_unsloth_sentencepiece_temp/
+
+
+# Ignore other specific files
+Llama-3-1-70B-Finetuned_V3/
+llama70b_whole_mi_dataset/
+model/
+obesity_RCT_pilot_only.json
+yerma1
